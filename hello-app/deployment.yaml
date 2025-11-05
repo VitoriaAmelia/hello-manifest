@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: seuusuario/hello-app:latest   # placeholder, workflow irá atualizar tag
+          image: amevis/hello-app:sha-latest
           ports:
-            - containerPort: 80
+            - containerPort: 8000
