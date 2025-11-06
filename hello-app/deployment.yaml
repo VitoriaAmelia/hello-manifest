@@ -5,10 +5,15 @@ metadata:
   labels:
     app: hello-app
 spec:
-  replicas: 1
+  replicas: 3 
   selector:
     matchLabels:
       app: hello-app
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxUnavailable: 0
+      maxSurge: 1
   template:
     metadata:
       labels:
@@ -19,3 +24,4 @@ spec:
           image: amevis/hello-app:sha-9fa0f84cef0770da33f01cc6f722d26ea9a21d85
           ports:
             - containerPort: 8000
+
