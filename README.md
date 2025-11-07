@@ -80,7 +80,7 @@ Saída esperada:
 
 Observações:
 
-Durante o projeto, você é possível seguir instruções de criar e editar arquivos e pastas pelo VS Code ou pelo terminal.
+Durante o projeto, é possível seguir instruções de criar e editar arquivos e pastas pelo VS Code ou pelo terminal.
 
 No Vs Code, você pode navegar conforme a imagem:
 
