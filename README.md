@@ -369,7 +369,9 @@ Login:
 - **User:** `admin`  
 - **Senha:** obtida no comando acima
 
-tela de aceso aqui imagem
+Interface de login:
+
+<img width="1234" height="549" alt="image" src="https://github.com/user-attachments/assets/f2d6be79-1c3e-4002-970b-35bd942a9585" />
 
 ---
 
