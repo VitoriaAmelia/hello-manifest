@@ -419,7 +419,7 @@ Acesse no navegador para ver:
    - Depois sincronizará automaticamente
 
 
-<img width="424" height="367" alt="outofsyncteste" src="https://github.com/user-attachments/assets/bbc05f12-4c65-4ec3-9ea5-06035c2a466d" />
+<img width="427" height="369" alt="voltou a ficar sync" src="https://github.com/user-attachments/assets/7238983c-20e7-42b3-8abc-f0f77ddf3dcb" />
 
 
    - A nova mensagem aparecerá em `http://localhost:30080/` e `http://localhost:30080/hello/seunome`
