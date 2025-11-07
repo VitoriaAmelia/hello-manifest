@@ -324,10 +324,14 @@ git push
 2. Faça commit e push  
 3. Verifique:
    - ✅ A imagem foi atualizada no **Docker Hub**
-   - ✅ Um **Pull Request** foi criado no repositório `hello-manifest`
+
+<img width="1073" height="553" alt="image" src="https://github.com/user-attachments/assets/5ef90ead-c726-482e-bdac-01541cb36cdc" />
+
+          
    - ✅ O arquivo `deployment.yaml` foi atualizado com a nova tag da imagem  
 
-colocar imagens do teste aqui lembrar
+<img width="1026" height="596" alt="image" src="https://github.com/user-attachments/assets/2c78707b-db92-4f55-8f60-622fa4212b90" />
+
 ---
 
 ## 🧭 7. Acessando o ArgoCD
@@ -405,7 +409,7 @@ Acesse no navegador para ver:
 ## 🔁 Teste final
 
 1. Altere a mensagem no `main.py`
-2. Aceite o **Pull Request** no repositório `hello-manifest`
+2. Espere a ação do push
 3. Verifique no ArgoCD:
    - O app ficará **Out of Sync**
 
@@ -419,5 +423,9 @@ Acesse no navegador para ver:
 
 
    - A nova mensagem aparecerá em `http://localhost:30080/`
+
+<img width="1365" height="178" alt="image" src="https://github.com/user-attachments/assets/0402d395-5b89-45f0-8799-ba69019992b5" />
+
+<img width="1365" height="251" alt="image" src="https://github.com/user-attachments/assets/94971cdc-a9ec-42ba-90ca-6e9d9ba6e9ce" />
 
 ---
