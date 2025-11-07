@@ -422,10 +422,11 @@ Acesse no navegador para ver:
 <img width="424" height="367" alt="outofsyncteste" src="https://github.com/user-attachments/assets/bbc05f12-4c65-4ec3-9ea5-06035c2a466d" />
 
 
-   - A nova mensagem aparecerá em `http://localhost:30080/`
+   - A nova mensagem aparecerá em `http://localhost:30080/` e `http://localhost:30080/hello/seunome`
 
-<img width="1365" height="178" alt="image" src="https://github.com/user-attachments/assets/0402d395-5b89-45f0-8799-ba69019992b5" />
+<img width="420" height="134" alt="image" src="https://github.com/user-attachments/assets/077e5579-d075-4f1d-ba2e-59cbafd364a7" />
 
-<img width="1365" height="251" alt="image" src="https://github.com/user-attachments/assets/94971cdc-a9ec-42ba-90ca-6e9d9ba6e9ce" />
+<img width="546" height="174" alt="image" src="https://github.com/user-attachments/assets/eefbb9b6-d740-4071-8818-4d2a87c425a5" />
+
 
 ---
