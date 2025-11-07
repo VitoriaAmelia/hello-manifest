@@ -78,8 +78,6 @@ Saída esperada:
 
 <img width="222" height="142" alt="image" src="https://github.com/user-attachments/assets/7d44f1c7-7147-4360-9313-445b6e5af311" />
 
----
-
 Observações:
 
 Durante o projeto, você é possível seguir instruções de criar e editar arquivos e pastas pelo VS Code ou pelo terminal.
@@ -101,6 +99,8 @@ mkdir NomeDaPasta   # cria uma nova pasta
 New-Item "nome_arquivo.txt"   # cria um novo arquivo
 code .           #abre o Vs Code no diretório
 ```
+
+---
 
 ## ⚙️ Estrutura do repositório `hello-app`
 
@@ -312,7 +312,7 @@ No terminal, na pasta hello-manifest, não se esqueça de dar commit:
 
 ```bash
 git add .
-git commit -m "Adiciona pipeline CI/CD"
+git commit -m "sua mensagem de commit"
 git push
 ```
 
