@@ -2,7 +2,7 @@
 
 Esse repositório contém os manifests utilizados para implantar a aplicação hello-app por meio do Argo CD.
 
-Este repositório trabalha em conjunto com o repositório [hello-app](https://github.com/VitoriaAmelia/hello-app). Nele você econtra, inclusive, o passo a passo no Argo CD para realizar concluir o processo.
+Este repositório trabalha em conjunto com o repositório [hello-app](https://github.com/VitoriaAmelia/hello-app). Nele você econtra, inclusive, o passo a passo no Argo CD para realizar a implementação.
 
 ---
 
