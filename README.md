@@ -19,6 +19,6 @@ Este repositório trabalha em conjunto com o repositório [hello-app](https://gi
   - Cria o *Service* para expor a aplicação  
   - Tipo de serviço: NodePort  
   - Porta interna: 80
-  - Porta externa (acesso): 30080
+  - Porta de acesso: 30080
 
   Com isso, será possível acessar no navegador por meio de: `http://localhost:30080/`
