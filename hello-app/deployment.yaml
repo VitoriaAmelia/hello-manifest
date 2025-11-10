@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: hello-app
-          image: amevis/hello-app:sha-40f37779e528072a66d98f9ea81d2c8e9e55f99e
+          image: amevis/hello-app:sha-61960f932c326c5bd02863c294769d2857868130
           ports:
             - containerPort: 80
 
